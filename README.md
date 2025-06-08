@@ -38,7 +38,7 @@ The project follows a star schema design:
 
 ## 📁 Repository Contents
 
-- `Plant_Sales_Performance.pbix`: Power BI report file
+- `Plant_Portfolio_Project.pbix`: Power BI report file
 - `dashboard_preview.png`: Snapshot of the final Power BI dashboard for preview
 
 
